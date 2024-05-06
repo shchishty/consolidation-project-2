@@ -2,7 +2,7 @@
 
 This project is a game in which you can roll dice amongst multiple players. The goal is to get the most points. The rules for this game are down below:
 
-# Rules
+## Rules
 
 - This game may have one or more players.
 - The object of the game is to score the most points, or to be the first to reach a certain score.
@@ -14,7 +14,7 @@ This project is a game in which you can roll dice amongst multiple players. The 
 - When a player decides to stop, they score points equal to the total of the three dice, and then their turn ends.
 - If a player “tuples out”, their turn ends and they score 0 points for that turn.
 
-# How to play
+## How to play
 
 - Open up the code in the repository.
 - Run the program 'Consolidation Project 2.py'
